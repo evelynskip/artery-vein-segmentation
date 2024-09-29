@@ -1,0 +1,13 @@
+output/
+swin_tiny_patch4_window7_224.pth
+transunet/vit_checkpoint/imagenet21k/R50+ViT-B_16.npz
+R50+ViT-B_16.npz
+runs/
+checkpoints/
+*.avi
+*.mp4
+*.pptx
+*.pth
+**/__pycache__
+*.pyc
+
