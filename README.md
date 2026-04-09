@@ -15,6 +15,17 @@ Implementation of Article ["Force Sensing Guided Artery-Vein Segmentation via Se
     python train.py -n unet -e 100 -b 4 -l 6e-6 -g 5 -s 1 
     python train.py -n seq-unet -e 100 -b 4 -l 6e-6 -g 5 -s 2 
 
+## Citation
+
+```bib
+@article{geng2024forcesensingguidedarteryvein,
+    title={Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images}, 
+    author={Yimeng Geng and Gaofeng Meng and Mingcong Chen and Guanglin Cao and Mingyang Zhao and Jianbo Zhao and Hongbin Liu},
+    year={2024},
+    conference={International Conference on Medical Image Computing and Computer-Assisted Intervention}
+}
+```
+
 ## Reference
 [TMANet](https://github.com/wanghao9610/TMANet)
 
